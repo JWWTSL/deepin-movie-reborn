@@ -4,32 +4,33 @@
 <context>
     <name>MircastShowWidget</name>
     <message>
-        <source>Exit Miracast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Projecting... 
 Please do not exit the Movie app during the process.</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রক্ষেপণ চলমান... 
+প্রক্ষেপণ প্রক্রিয়া সময়টি ছেড়ে দিন না।</translation>
     </message>
     <message>
         <source>Display device</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রদর্শন যন্ত্র</translation>
+    </message>
+    <message>
+        <source>Exit Miracast</source>
+        <translation>মিরাকাস্ট থেকে বিদায় নাও</translation>
     </message>
 </context>
 <context>
     <name>MircastWidget</name>
     <message>
         <source>Project to</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রক্ষেপণ করুন</translation>
     </message>
     <message>
         <source>Searching for devices...</source>
-        <translation type="unfinished"></translation>
+        <translation>যন্ত্রগুলি খুঁজছে...</translation>
     </message>
     <message>
         <source>No Miracast display devices were found. Please connect the device and your computer to the same WLAN network.</source>
-        <translation type="unfinished"></translation>
+        <translation>কোনো মিরাকাস্ট প্রদর্শন যন্ত্র খুঁজে পাওনি। যন্ত্রটিকে আপনার একই WLAN নেটওয়ার্কে সংযুক্ত করুন।</translation>
     </message>
 </context>
 <context>
@@ -44,7 +45,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Network disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>নেটওয়ার্ক বিচ্ছিন্ন হয়েছে</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to operate this folder</source>
@@ -204,7 +205,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Exit fullscreen/mini mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ফুলস্ক্রিন/মিনি মোড থেকে বিদায় নাও</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -220,11 +221,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Display shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রদর্শন শর্টকাট</translation>
     </message>
     <message>
         <source>Delete from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>প্লেলিস্ট থেকে মুছে ফেলুন</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -232,7 +233,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
+        <translation>বার্স্ট শুটিং</translation>
     </message>
     <message>
         <source>Size</source>
@@ -240,15 +241,15 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Movie is a full-featured video player, supporting playing local and streaming media in multiple video formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>মুভি একটি পূর্ণাঙ্গ ভিডিও প্লেয়ার, বিভিন্ন ভিডিও ফরম্যাটে স্থানীয় এবং স্ট্রিমিং মিডিয়া প্লে করার সমর্থন করে।</translation>
     </message>
     <message>
         <source>Show thumbnails in progress bar</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রগ্রেস বারে থামনিল দেখান</translation>
     </message>
     <message>
         <source>Default play mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ডিফল্ট প্লে মোড</translation>
     </message>
     <message>
         <source>OK</source>
@@ -256,19 +257,42 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>ডিকোডিং</translation>
     </message>
     <message>
         <source>Auto select (Recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>স্বয়ংক্রিয় নির্বাচন (পরামর্শ দেওয়া)</translation>
     </message>
     <message>
         <source>Hardware decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>হার্ডওয়্যার ডিকোডিং</translation>
     </message>
     <message>
         <source>Software decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>সফটওয়্যার ডিকোডিং</translation>
+    </message>
+    <message>
+        <source>Customize</source>
+        <translation>কাস্টমাইজ করুন</translation>
+    </message>
+    <message>
+        <source>Decode mode</source>
+        <translation>ডিকোড মোড</translation>
+    </message>
+    <message>
+        <source>Video out</source>
+        <translation>ভিডিও আউট</translation>
+    </message>
+    <message>
+        <source>The custom decoding method needs to be restarted before it can take effect,
+and whether to restart it?</source>
+        <translation>কাস্টম ডিকোডিং পদ্ধতিটি কাজে লাগানোর আগে পুনরায় চালানো প্রয়োজন,
+
+এবং আপনি কি পুনরায় চালানো চাচ্ছেন?</translation>
+    </message>
+    <message>
+        <source>Rendering engine</source>
+        <translation>রেন্ডারিং ইঞ্জিন</translation>
     </message>
 </context>
 <context>
@@ -302,7 +326,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Empty playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>খালি প্লেলিস্ট</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -323,6 +347,34 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Open CD/DVD</source>
         <translation>CD/DVD খুলুন</translation>
+    </message>
+    <message>
+        <source>Mini Mode</source>
+        <translation>ছোট রূপ</translation>
+    </message>
+    <message>
+        <source>Play Mode</source>
+        <translation>চালানোর ধরণ</translation>
+    </message>
+    <message>
+        <source>Order Play</source>
+        <translation>ধারাবাহিকভাবে চালান</translation>
+    </message>
+    <message>
+        <source>Shuffle Play</source>
+        <translation>অদলবদল করে চালান</translation>
+    </message>
+    <message>
+        <source>Single Play</source>
+        <translation>একটিমাত্র চালান</translation>
+    </message>
+    <message>
+        <source>Single Loop</source>
+        <translation>একবার ঘুড়ুন</translation>
+    </message>
+    <message>
+        <source>List Loop</source>
+        <translation>সম্পূর্ণ তালিকা বার বার ঘুড়ুন</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -373,8 +425,16 @@ Please do not exit the Movie app during the process.</source>
         <translation>লোড করুন</translation>
     </message>
     <message>
+        <source>Online Search</source>
+        <translation>অনলাইনে খুজুন</translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation>নির্বাচন করুন</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>লুকান</translation>
     </message>
     <message>
         <source>Encodings</source>
@@ -385,104 +445,64 @@ Please do not exit the Movie app during the process.</source>
         <translation> স্ক্রিনশট</translation>
     </message>
     <message>
+        <source>Film Screenshot</source>
+        <translation>ফিল্ম স্ক্রিনশট</translation>
+    </message>
+    <message>
+        <source>Burst Shooting</source>
+        <translation>অনেকগুলি স্ক্রিনশট</translation>
+    </message>
+    <message>
         <source>Playlist</source>
         <translation>চলার তালিকা</translation>
     </message>
     <message>
+        <source>Film Info</source>
+        <translation>ফিল্মের তথ্য</translation>
+    </message>
+    <message>
         <source>Delete from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>প্লেলিস্ট থেকে মুছে ফেলুন</translation>
     </message>
     <message>
         <source>Display in file manager</source>
         <translation>ফাইল ম্যানেজার দেখান</translation>
     </message>
     <message>
+        <source>Next Frame</source>
+        <translation>পরবর্তী ফ্রেম</translation>
+    </message>
+    <message>
+        <source>Previous Frame</source>
+        <translation>পূর্ববর্তী ফ্রেম</translation>
+    </message>
+    <message>
         <source>Open screenshot folder</source>
-        <translation type="unfinished"></translation>
+        <translation>স্ক্রিনশট ফোল্ডার খুলুন</translation>
+    </message>
+    <message>
+        <source>Playback Speed</source>
+        <translation>প্লেব্যাক গতি</translation>
     </message>
     <message>
         <source>0.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5x</translation>
     </message>
     <message>
         <source>1.0x</source>
-        <translation type="unfinished"></translation>
+        <translation>১.০৫</translation>
     </message>
     <message>
         <source>1.2x</source>
-        <translation type="unfinished"></translation>
+        <translation>১.২৫</translation>
     </message>
     <message>
         <source>1.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>১.৫৫</translation>
     </message>
     <message>
         <source>2.0x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished">চালু করুন</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="unfinished">পূর্ববর্তী</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="unfinished">পরবর্তী</translation>
-    </message>
-    <message>
-        <source>Order play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next frame</source>
-        <translation type="unfinished">পরবর্তী ফ্রেম</translation>
-    </message>
-    <message>
-        <source>Previous frame</source>
-        <translation type="unfinished">পূর্বের ফ্রেম</translation>
-    </message>
-    <message>
-        <source>Playback speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mini mode</source>
-        <translation type="unfinished">ছোট রূপ</translation>
-    </message>
-    <message>
-        <source>Online search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Film screenshot</source>
-        <translation type="unfinished">ফিল্ম স্ক্রিনশট</translation>
-    </message>
-    <message>
-        <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>২.০৫</translation>
     </message>
 </context>
 <context>
@@ -516,7 +536,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Buffering...</source>
-        <translation type="unfinished"></translation>
+        <translation>বাটফারিং...</translation>
     </message>
     <message>
         <source>Open folder</source>
@@ -536,7 +556,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Parse failed</source>
-        <translation type="unfinished"></translation>
+        <translation>পার্স ফেল</translation>
     </message>
     <message>
         <source>Mute</source>
@@ -548,7 +568,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Track: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ট্র্যাক: %1</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -567,6 +587,14 @@ Please do not exit the Movie app during the process.</source>
         <translation>গতি: %1x</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation>দেখুন</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation>এখানে সংরক্ষণ করুন</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation>স্ক্রিনশটটি সংরক্ষণ করা হয়েছে</translation>
     </message>
@@ -580,23 +608,27 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>কোনো মেলে না অনলাইন সাবটাইটেল</translation>
     </message>
     <message>
         <source>Cannot open file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>ফাইল বা স্ট্রিম খুলতে পারে না</translation>
     </message>
     <message>
         <source>Invalid file</source>
-        <translation type="unfinished"></translation>
+        <translation>অবৈধ ফাইল</translation>
     </message>
     <message>
         <source>No video file found</source>
-        <translation type="unfinished"></translation>
+        <translation>ভিডিও ফাইল খুঁজে পাওয়া গেল না</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation>ফিল্ম স্ক্রিনশট</translation>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবি তুলতে হবে, অপেক্ষা করুন...</translation>
     </message>
     <message>
         <source>OK</source>
@@ -604,63 +636,63 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Please insert a CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>দয়া করে একটি CD/DVD বসান</translation>
     </message>
     <message>
         <source>Reading DVD files...</source>
-        <translation type="unfinished"></translation>
+        <translation>DVD ফাইল পড়া হচ্ছে...</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
-        <translation type="unfinished"></translation>
+        <translation>৪কে ভিডিও অন্য কাজে বাধা হতে পারে</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>ক্রমাগত প্লে</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>স্যুশুল প্লে</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি প্লে</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি লুপ</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>তালিকা লুপ</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>CD/DVD আউট করা হয়েছে</translation>
     </message>
     <message>
         <source>Please load the video first</source>
-        <translation type="unfinished"></translation>
+        <translation>দয়া করে ভিডিও প্রথমে লোড করুন</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>দয়া করে স্মার্ট ডক থেকে বের হন</translation>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>ডিস্ক প্লে করা যাবে না</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>সাবটাইটেল কনফিগার করা যাবে না</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>এই ভিডিওতে এই ক্রিয়াটি সমর্থিত হয় না</translation>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>সব (*)</translation>
     </message>
     <message>
         <source>Subtitle (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</source>
@@ -669,18 +701,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>কানেকশন ফেল</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>মিরাকাস্ট ডিসকনেক্ট হয়েছে</translation>
     </message>
-</context>
-<context>
-    <name>dmr::MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">দেখুন</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">বাতিল</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>পুনরায় চালান</translation>
     </message>
 </context>
 <context>
@@ -714,7 +747,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>সময়কাল</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>ধরন</translation>
     </message>
     <message>
         <source>Size</source>
@@ -726,31 +763,31 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Codec info</source>
-        <translation type="unfinished"></translation>
+        <translation>কোডেক তথ্য</translation>
     </message>
     <message>
         <source>Video CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>ভিডিও কোডেক আইডি</translation>
     </message>
     <message>
         <source>Video CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>ভিডিও কোডে হার</translation>
     </message>
     <message>
         <source>%1 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 kbps&apos;</translation>
     </message>
     <message>
         <source>FPS</source>
-        <translation type="unfinished"></translation>
+        <translation>এফপিএস</translation>
     </message>
     <message>
         <source>%1 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 fps&apos;</translation>
     </message>
     <message>
         <source>Proportion</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রতিনিধিত্ব</translation>
     </message>
     <message>
         <source>%1</source>
@@ -758,58 +795,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Audio info</source>
-        <translation type="unfinished"></translation>
+        <translation>অডিও তথ্য</translation>
     </message>
     <message>
         <source>Audio CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>অডিও কোডেক আইডি</translation>
     </message>
     <message>
         <source>Audio CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>অডিও কোডে হার</translation>
     </message>
     <message>
         <source>Audio digit</source>
-        <translation type="unfinished"></translation>
+        <translation>অডিও ডিজিট</translation>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 বিট&apos;</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>ক্যানাল</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 ক্যানাল&apos;</translation>
     </message>
     <message>
         <source>Sampling</source>
-        <translation type="unfinished"></translation>
+        <translation>স্যাম্পলিং</translation>
     </message>
     <message>
         <source>%1hz</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1hz&apos;</translation>
     </message>
     <message>
         <source>%1 bps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 bps&apos;</translation>
     </message>
 </context>
 <context>
     <name>dmr::MpvProxy</name>
     <message>
         <source>Internal</source>
-        <translation type="unfinished"></translation>
+        <translation>স্বান্তরাষ্ট্রীয়</translation>
     </message>
 </context>
 <context>
@@ -824,11 +853,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>ডিস্ক প্লে করা যাবে না</translation>
     </message>
     <message>
         <source>Parse failed</source>
-        <translation type="unfinished"></translation>
+        <translation>পার্স ফেল</translation>
     </message>
     <message>
         <source>Open folder</source>
@@ -836,7 +865,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>সব (*)</translation>
     </message>
     <message>
         <source>Speed: %1x</source>
@@ -856,11 +885,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Track: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;ট্র্যাক: %1&apos;</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>সাবটাইটেল সামঞ্জস্য করা যাবে না</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -880,6 +909,18 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">সাবটাইটেল (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation type="unfinished">দেখুন</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation type="unfinished">ফিল্ম স্ক্রিনশট</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation type="unfinished">এখানে সংরক্ষণ করুন</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation type="unfinished">স্ক্রিনশটটি সংরক্ষণ করা হয়েছে</translation>
     </message>
@@ -889,19 +930,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবি তুলছি, অপেক্ষা করুন...</translation>
     </message>
     <message>
         <source>Reading DVD files...</source>
-        <translation type="unfinished"></translation>
+        <translation>ডিভিডি ফাইল পড়ছি...</translation>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>কোনও মেলে না অনলাইন সাবটাইটেল</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
-        <translation type="unfinished"></translation>
+        <translation>4K ভিডিও আটকে যেতে পারে</translation>
     </message>
     <message>
         <source>OK</source>
@@ -909,27 +950,27 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>অর্ডার প্লে</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রতিটি ভিডিও একটি অবিচ্ছিন্ন প্লে করুন</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি ভিডিও একটি অবিচ্ছিন্ন প্লে করুন</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি ভিডিও পুনরাবৃত্তি করুন</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>তালিকা পুনরাবৃত্তি করুন</translation>
     </message>
     <message>
         <source>Buffering...</source>
-        <translation type="unfinished"></translation>
+        <translation>বাফারিং...</translation>
     </message>
     <message>
         <source>Mute</source>
@@ -941,35 +982,35 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot open file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>ফাইল বা স্ট্রিম খুলতে পারে না</translation>
     </message>
     <message>
         <source>Invalid file</source>
-        <translation type="unfinished"></translation>
+        <translation>অবৈধ ফাইল</translation>
     </message>
     <message>
         <source>Please insert a CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>দয়া করে একটি সিডিটি/ডিভিডি প্রবেশ করান</translation>
     </message>
     <message>
         <source>No video file found</source>
-        <translation type="unfinished"></translation>
+        <translation>কোন ভিডিও ফাইল খুঁজে পাওয়া যায় নি</translation>
     </message>
     <message>
         <source>Please load the video first</source>
-        <translation type="unfinished"></translation>
+        <translation>দয়া করে প্রথমে ভিডিওটি লোড করুন</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>দয়া করে স্মার্ট ডক থেকে বাইরে আসুন</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>সিডিটি/ডিভিডি বাইরে নিয়ে নেওয়া হয়েছে</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>এই ভিডিওতে ক্রিয়া সমর্থন করা হয় না</translation>
     </message>
     <message>
         <source>Invalid file: %1</source>
@@ -977,36 +1018,41 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>সংযোগ ব্যর্থ</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>মিরাকাস্ট সংযোগ বিচ্ছিন্ন</translation>
     </message>
-</context>
-<context>
-    <name>dmr::Platform_MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">দেখুন</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">বাতিল</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>পুনরারম্ভ করুন</translation>
     </message>
 </context>
 <context>
     <name>dmr::Platform_PlayItemWidget</name>
     <message>
         <source>The file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>ফাইলটি অস্তিত্বহীন</translation>
     </message>
 </context>
 <context>
     <name>dmr::Platform_PlaylistWidget</name>
     <message>
         <source>Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>প্লেলিস্ট</translation>
+    </message>
+    <message>
+        <source>Empty</source>
+        <translation type="unfinished">খালি করুন</translation>
     </message>
     <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 ভিডিও&apos;</translation>
     </message>
 </context>
 <context>
@@ -1016,24 +1062,20 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">চালান/থামুন</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">0.5s পিছনে {15s?}</translation>
+        <source>Previous</source>
+        <translation type="unfinished">পূর্ববর্তী</translation>
     </message>
     <message>
-        <source>15s forward</source>
-        <translation type="unfinished">0.5s সামনে {15s?}</translation>
+        <source>Next</source>
+        <translation type="unfinished">পরবর্তী</translation>
     </message>
     <message>
         <source>Fullscreen</source>
         <translation type="unfinished">সম্পূর্ণ পর্দা</translation>
     </message>
     <message>
-        <source>Miracast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>প্লেলিস্ট</translation>
     </message>
     <message>
         <source>Exit fullscreen</source>
@@ -1047,12 +1089,16 @@ Please do not exit the Movie app during the process.</source>
         <source>Play</source>
         <translation type="unfinished">চালু করুন</translation>
     </message>
+    <message>
+        <source>Miracast</source>
+        <translation>মিরাকাস্ট</translation>
+    </message>
 </context>
 <context>
     <name>dmr::PlayItemWidget</name>
     <message>
         <source>The file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>ফাইলটি অস্তিত্বহীন</translation>
     </message>
 </context>
 <context>
@@ -1063,46 +1109,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 ভিডিও&apos;</translation>
+    </message>
+    <message>
+        <source>Empty</source>
+        <translation>খালি করুন</translation>
     </message>
 </context>
 <context>
     <name>dmr::Settings</name>
     <message>
         <source>%1/Movie%2(%3).jpg</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1/ফিল্ম%2(%3).jpg&apos;</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>ক্রমানুসারে প্লে করুন</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রতিটি ভিডিও একটি অবিচ্ছিন্ন প্লে করুন</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি ভিডিও একটি অবিচ্ছিন্ন প্লে করুন</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি ভিডিও পুনরাবৃত্তি করুন</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>তালিকা পুনরাবৃত্তি করুন</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>অটো</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>বন্ধ করুন</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>খুলুন</translation>
     </message>
 </context>
 <context>
@@ -1110,6 +1160,14 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Play</source>
         <translation>চালু করুন</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>পূর্ববর্তী</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>পরবর্তী</translation>
     </message>
     <message>
         <source>Playlist</source>
@@ -1132,16 +1190,19 @@ Please do not exit the Movie app during the process.</source>
         <translation>থামুন</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">0.5s পিছনে {15s?}</translation>
-    </message>
-    <message>
-        <source>15s forward</source>
-        <translation type="unfinished">0.5s সামনে {15s?}</translation>
-    </message>
-    <message>
         <source>Miracast</source>
-        <translation type="unfinished"></translation>
+        <translation>মিরাকাস্ট</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>ভূমি</translation>
+    </message>
+</context>
+<context>
+    <name>dmr::VolumeButton</name>
+    <message>
+        <source>Volume</source>
+        <translation>ভূমি</translation>
     </message>
 </context>
 </TS>

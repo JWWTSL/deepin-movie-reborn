@@ -4,32 +4,33 @@
 <context>
     <name>MircastShowWidget</name>
     <message>
-        <source>Exit Miracast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Projecting... 
 Please do not exit the Movie app during the process.</source>
-        <translation type="unfinished"></translation>
+        <translation>در حال پروژه کردن... 
+لُطفاً در طول فرآیند از برنامه فیلم خارج نشوید.</translation>
     </message>
     <message>
         <source>Display device</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه نمایش</translation>
+    </message>
+    <message>
+        <source>Exit Miracast</source>
+        <translation>خروج از میراسکات</translation>
     </message>
 </context>
 <context>
     <name>MircastWidget</name>
     <message>
         <source>Project to</source>
-        <translation type="unfinished"></translation>
+        <translation>پروژه کن به</translation>
     </message>
     <message>
         <source>Searching for devices...</source>
-        <translation type="unfinished"></translation>
+        <translation>جستجوی دستگاه‌ها...</translation>
     </message>
     <message>
         <source>No Miracast display devices were found. Please connect the device and your computer to the same WLAN network.</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ دستگاه نمایش میراسکاتی یافت نشد. لُطفاً دستگاه و کامپیوتر خود را به شبکه WLAN یکسان متصل کنید.</translation>
     </message>
 </context>
 <context>
@@ -44,7 +45,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Network disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>شبکه قطع شده</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to operate this folder</source>
@@ -204,7 +205,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Exit fullscreen/mini mode</source>
-        <translation type="unfinished"></translation>
+        <translation>خروج از حالت تمام صفحه/کوچک</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -224,7 +225,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Delete from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف از لیست پخش</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -232,7 +233,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
+        <translation>فتوشاوت</translation>
     </message>
     <message>
         <source>Size</source>
@@ -240,15 +241,15 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Movie is a full-featured video player, supporting playing local and streaming media in multiple video formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>فیلم یک پخش‌کننده ویدئویی کامل است که پخش فایل‌های محلی و ویدئویی از راه‌های مختلف را پشتیبانی می‌کند.</translation>
     </message>
     <message>
         <source>Show thumbnails in progress bar</source>
-        <translation type="unfinished"></translation>
+        <translation>نمایش عکس‌های کوچک در شاخص پیشرفت</translation>
     </message>
     <message>
         <source>Default play mode</source>
-        <translation type="unfinished"></translation>
+        <translation>حالت پخش پیش‌فرض</translation>
     </message>
     <message>
         <source>OK</source>
@@ -256,19 +257,42 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>دکوډ کردن</translation>
     </message>
     <message>
         <source>Auto select (Recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>انتخاب خودکار (مورد توصیه)</translation>
     </message>
     <message>
         <source>Hardware decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>دکوډ کردن سخت‌افزاری</translation>
     </message>
     <message>
         <source>Software decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>دکوډ کردن نرم‌افزاری</translation>
+    </message>
+    <message>
+        <source>Customize</source>
+        <translation>شخصی‌سازی</translation>
+    </message>
+    <message>
+        <source>Decode mode</source>
+        <translation>حالت دکوډ کردن</translation>
+    </message>
+    <message>
+        <source>Video out</source>
+        <translation>خروج ویدئو</translation>
+    </message>
+    <message>
+        <source>The custom decoding method needs to be restarted before it can take effect,
+and whether to restart it?</source>
+        <translation>روش دکوډ کردن شخصی‌سازی شده نیاز به restart دارد تا اثر بگیرد،
+
+و آیا باید restart شود؟</translation>
+    </message>
+    <message>
+        <source>Rendering engine</source>
+        <translation>محرک ویدئو</translation>
     </message>
 </context>
 <context>
@@ -302,7 +326,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Empty playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>پاک کردن لیست پخش</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -323,6 +347,34 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Open CD/DVD</source>
         <translation>باز کردن CD/DVF</translation>
+    </message>
+    <message>
+        <source>Mini Mode</source>
+        <translation>حالت کوچک</translation>
+    </message>
+    <message>
+        <source>Play Mode</source>
+        <translation>حالت پخش</translation>
+    </message>
+    <message>
+        <source>Order Play</source>
+        <translation>اجرای سفارشی</translation>
+    </message>
+    <message>
+        <source>Shuffle Play</source>
+        <translation>اجرای درهم</translation>
+    </message>
+    <message>
+        <source>Single Play</source>
+        <translation>اجرای تک</translation>
+    </message>
+    <message>
+        <source>Single Loop</source>
+        <translation>تکرار یک مورد</translation>
+    </message>
+    <message>
+        <source>List Loop</source>
+        <translation>لیست تکرار</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -373,8 +425,16 @@ Please do not exit the Movie app during the process.</source>
         <translation>بارگذاری</translation>
     </message>
     <message>
+        <source>Online Search</source>
+        <translation>جستجوی آنلاین</translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation>انتخاب</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>مخفی</translation>
     </message>
     <message>
         <source>Encodings</source>
@@ -385,104 +445,64 @@ Please do not exit the Movie app during the process.</source>
         <translation>تصویر از صفحه</translation>
     </message>
     <message>
+        <source>Film Screenshot</source>
+        <translation>عکس از فیلم</translation>
+    </message>
+    <message>
+        <source>Burst Shooting</source>
+        <translation>عکس متوالی</translation>
+    </message>
+    <message>
         <source>Playlist</source>
         <translation>لیست پخش</translation>
     </message>
     <message>
+        <source>Film Info</source>
+        <translation>درباره فیلم</translation>
+    </message>
+    <message>
         <source>Delete from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف از لیست پخش</translation>
     </message>
     <message>
         <source>Display in file manager</source>
         <translation>نمایش درمدیریت فایل</translation>
     </message>
     <message>
+        <source>Next Frame</source>
+        <translation>فрейم بعدی</translation>
+    </message>
+    <message>
+        <source>Previous Frame</source>
+        <translation>فрейم قبلی</translation>
+    </message>
+    <message>
         <source>Open screenshot folder</source>
-        <translation type="unfinished"></translation>
+        <translation>باز کردن پوشه عکس‌های کوچک</translation>
+    </message>
+    <message>
+        <source>Playback Speed</source>
+        <translation>سرعت پخش</translation>
     </message>
     <message>
         <source>0.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5x</translation>
     </message>
     <message>
         <source>1.0x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0x</translation>
     </message>
     <message>
         <source>1.2x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.2 بار</translation>
     </message>
     <message>
         <source>1.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5 بار</translation>
     </message>
     <message>
         <source>2.0x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished">پخش</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="unfinished">پیشین</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="unfinished">بعدی</translation>
-    </message>
-    <message>
-        <source>Order play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next frame</source>
-        <translation type="unfinished">فریم بعدی</translation>
-    </message>
-    <message>
-        <source>Previous frame</source>
-        <translation type="unfinished">فریم قبلی</translation>
-    </message>
-    <message>
-        <source>Playback speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mini mode</source>
-        <translation type="unfinished">حالت کوچک</translation>
-    </message>
-    <message>
-        <source>Online search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Film screenshot</source>
-        <translation type="unfinished">عکس گرفتن از فیلم</translation>
-    </message>
-    <message>
-        <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>2.0 بار</translation>
     </message>
 </context>
 <context>
@@ -516,7 +536,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Buffering...</source>
-        <translation type="unfinished"></translation>
+        <translation>در حال بافر کردن...</translation>
     </message>
     <message>
         <source>Open folder</source>
@@ -536,7 +556,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Parse failed</source>
-        <translation type="unfinished"></translation>
+        <translation>پارس فاش شد</translation>
     </message>
     <message>
         <source>Mute</source>
@@ -548,7 +568,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Track: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>مسیر: %1</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -567,6 +587,14 @@ Please do not exit the Movie app during the process.</source>
         <translation>سرعت: x1%</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation>نما</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation>ذخیره شده در</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation>اسکرین شات ذخیره شد</translation>
     </message>
@@ -580,23 +608,27 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ زیرنویس آنلاینی بازیابی نشد</translation>
     </message>
     <message>
         <source>Cannot open file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>فایل یا جریان را نمی‌توان باز کرد</translation>
     </message>
     <message>
         <source>Invalid file</source>
-        <translation type="unfinished"></translation>
+        <translation>فایل معتبر نیست</translation>
     </message>
     <message>
         <source>No video file found</source>
-        <translation type="unfinished"></translation>
+        <translation>فایل ویدیویی یافت نشد</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation>عکس گرفتن از فیلم</translation>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>در حال گرفتن عکس‌های نگارشی، لطفا منتظر بمانید...</translation>
     </message>
     <message>
         <source>OK</source>
@@ -604,63 +636,63 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Please insert a CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفا یک DVD/CD وارد کنید</translation>
     </message>
     <message>
         <source>Reading DVD files...</source>
-        <translation type="unfinished"></translation>
+        <translation>در حال خواندن فایل‌های DVD...</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
-        <translation type="unfinished"></translation>
+        <translation>ویدیوی 4K ممکن است متوقف شده باشد</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>پخش معمولی</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>پخش تصادفی</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>پخش یک‌باره</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>حلقه یک‌باره</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>حلقه لیست</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>DVD/CD اخراج شده است</translation>
     </message>
     <message>
         <source>Please load the video first</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفا ابتدا ویدیو را بارگذاری کنید</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفا از دک دکم اتوماتیک خارج شوید</translation>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>نمی‌توان پخش دیسک را انجام داد</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>غیرممکن است زیرنویس را تنظیم کنید</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>عملیات در این ویدیو پشتیبانی نمی‌شود</translation>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>همه (*)</translation>
     </message>
     <message>
         <source>Subtitle (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</source>
@@ -669,18 +701,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>اتصال فاش شد</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast قطع شد</translation>
     </message>
-</context>
-<context>
-    <name>dmr::MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">نما</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">انصراف</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>دوباره راه‌اندازی</translation>
     </message>
 </context>
 <context>
@@ -714,7 +747,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>مدت زمان</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>نوع</translation>
     </message>
     <message>
         <source>Size</source>
@@ -726,31 +763,31 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Codec info</source>
-        <translation type="unfinished"></translation>
+        <translation>اطلاعات کدک</translation>
     </message>
     <message>
         <source>Video CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>کدک ویدیو ID</translation>
     </message>
     <message>
         <source>Video CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>نرخ کدک ویدیو</translation>
     </message>
     <message>
         <source>%1 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 کیلوبیت بر ثانیه&apos;</translation>
     </message>
     <message>
         <source>FPS</source>
-        <translation type="unfinished"></translation>
+        <translation>FPS</translation>
     </message>
     <message>
         <source>%1 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 فریم بر ثانیه&apos;</translation>
     </message>
     <message>
         <source>Proportion</source>
-        <translation type="unfinished"></translation>
+        <translation>نسبت</translation>
     </message>
     <message>
         <source>%1</source>
@@ -758,58 +795,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Audio info</source>
-        <translation type="unfinished"></translation>
+        <translation>اطلاعات صوت</translation>
     </message>
     <message>
         <source>Audio CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>کدک صوت ID</translation>
     </message>
     <message>
         <source>Audio CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>نرخ کدک صوت</translation>
     </message>
     <message>
         <source>Audio digit</source>
-        <translation type="unfinished"></translation>
+        <translation>بیت صوت</translation>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 بیت&apos;</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>کانال</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 کانال&apos;</translation>
     </message>
     <message>
         <source>Sampling</source>
-        <translation type="unfinished"></translation>
+        <translation>نمونه‌برداری</translation>
     </message>
     <message>
         <source>%1hz</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 هرتز&apos;</translation>
     </message>
     <message>
         <source>%1 bps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 بیت بر ثانیه&apos;</translation>
     </message>
 </context>
 <context>
     <name>dmr::MpvProxy</name>
     <message>
         <source>Internal</source>
-        <translation type="unfinished"></translation>
+        <translation> داخلی</translation>
     </message>
 </context>
 <context>
@@ -824,11 +853,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>نمی‌توان چراغ را پخش کرد</translation>
     </message>
     <message>
         <source>Parse failed</source>
-        <translation type="unfinished"></translation>
+        <translation>تبدیل فاش شد</translation>
     </message>
     <message>
         <source>Open folder</source>
@@ -836,7 +865,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>همه (*)</translation>
     </message>
     <message>
         <source>Speed: %1x</source>
@@ -856,11 +885,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Track: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;مسیر: %1&apos;</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>نمی‌توان زیرنویس را تنظیم کرد</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -880,6 +909,18 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">زیرنویس (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation type="unfinished">نما</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation type="unfinished">عکس گرفتن از فیلم</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation type="unfinished">ذخیره شده در</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation type="unfinished">اسکرین شات ذخیره شد</translation>
     </message>
@@ -889,19 +930,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>گرفتن عکس‌های شاخص، لطفا منتظر بمانید...</translation>
     </message>
     <message>
         <source>Reading DVD files...</source>
-        <translation type="unfinished"></translation>
+        <translation>خواندن فایل‌های DVD...</translation>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ زیرنویسی با دیگری مطابقت ندارد</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
-        <translation type="unfinished"></translation>
+        <translation>ویدیو 4K ممکن است مسدود شود</translation>
     </message>
     <message>
         <source>OK</source>
@@ -909,27 +950,27 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>پخش به ترتیب</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>پخش تصادفی</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>فیلم یکباره</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>حلقه یکباره</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>حلقه لیست</translation>
     </message>
     <message>
         <source>Buffering...</source>
-        <translation type="unfinished"></translation>
+        <translation>بروسرینگ...</translation>
     </message>
     <message>
         <source>Mute</source>
@@ -941,35 +982,35 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot open file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>نمی‌توان فایل یا جریان را باز کرد</translation>
     </message>
     <message>
         <source>Invalid file</source>
-        <translation type="unfinished"></translation>
+        <translation>فایل معتبر نیست</translation>
     </message>
     <message>
         <source>Please insert a CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفا یک DVD/CD وارد کنید</translation>
     </message>
     <message>
         <source>No video file found</source>
-        <translation type="unfinished"></translation>
+        <translation>فایل ویدئویی یافت نشد</translation>
     </message>
     <message>
         <source>Please load the video first</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفا ابتدا فیلم را بارگذاری کنید</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفا از پانل هوشمند خارج شوید</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>DVD/CD اخراج شده است</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>این عملیات در این فیلم پشتیبانی نمی‌شود</translation>
     </message>
     <message>
         <source>Invalid file: %1</source>
@@ -977,25 +1018,26 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>اتصال ناموفق بود</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast قطع شده است</translation>
     </message>
-</context>
-<context>
-    <name>dmr::Platform_MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">نما</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">انصراف</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>دوباره راه‌اندازی</translation>
     </message>
 </context>
 <context>
     <name>dmr::Platform_PlayItemWidget</name>
     <message>
         <source>The file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>فایل وجود ندارد</translation>
     </message>
 </context>
 <context>
@@ -1005,8 +1047,12 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">لیست پخش</translation>
     </message>
     <message>
+        <source>Empty</source>
+        <translation type="unfinished">خالی</translation>
+    </message>
+    <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 فیلم&apos;</translation>
     </message>
 </context>
 <context>
@@ -1016,20 +1062,16 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">پخش/مکث</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">0.5s رو به عقب  {15s?}</translation>
+        <source>Previous</source>
+        <translation type="unfinished">پیشین</translation>
     </message>
     <message>
-        <source>15s forward</source>
-        <translation type="unfinished">0.5s رو به جلو  {15s?}</translation>
+        <source>Next</source>
+        <translation type="unfinished">بعدی</translation>
     </message>
     <message>
         <source>Fullscreen</source>
         <translation type="unfinished">تمام صفحه</translation>
-    </message>
-    <message>
-        <source>Miracast</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Playlist</source>
@@ -1047,12 +1089,16 @@ Please do not exit the Movie app during the process.</source>
         <source>Play</source>
         <translation type="unfinished">پخش</translation>
     </message>
+    <message>
+        <source>Miracast</source>
+        <translation>Miracast</translation>
+    </message>
 </context>
 <context>
     <name>dmr::PlayItemWidget</name>
     <message>
         <source>The file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>فایل وجود ندارد</translation>
     </message>
 </context>
 <context>
@@ -1063,46 +1109,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 فیلم&apos;</translation>
+    </message>
+    <message>
+        <source>Empty</source>
+        <translation>خالی</translation>
     </message>
 </context>
 <context>
     <name>dmr::Settings</name>
     <message>
         <source>%1/Movie%2(%3).jpg</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1/فیلم%2(%3).jpg&apos;</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>پخش به ترتیب</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>پخش به تصادف</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>فیلم یکباره</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>حلقه یکباره</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>حلقه لیست</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>خودکار</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>باز کردن</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>بستن</translation>
     </message>
 </context>
 <context>
@@ -1110,6 +1160,14 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Play</source>
         <translation>پخش</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>پیشین</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>بعدی</translation>
     </message>
     <message>
         <source>Playlist</source>
@@ -1132,16 +1190,19 @@ Please do not exit the Movie app during the process.</source>
         <translation>مکث</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">0.5s رو به عقب  {15s?}</translation>
-    </message>
-    <message>
-        <source>15s forward</source>
-        <translation type="unfinished">0.5s رو به جلو  {15s?}</translation>
-    </message>
-    <message>
         <source>Miracast</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>صدا</translation>
+    </message>
+</context>
+<context>
+    <name>dmr::VolumeButton</name>
+    <message>
+        <source>Volume</source>
+        <translation>صدا</translation>
     </message>
 </context>
 </TS>

@@ -4,32 +4,33 @@
 <context>
     <name>MircastShowWidget</name>
     <message>
-        <source>Exit Miracast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Projecting... 
 Please do not exit the Movie app during the process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektuoja... 
+Nepabėkite iš Movie programos procese.</translation>
     </message>
     <message>
         <source>Display device</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekrano įrenginys</translation>
+    </message>
+    <message>
+        <source>Exit Miracast</source>
+        <translation>Išeiti iš Miracast</translation>
     </message>
 </context>
 <context>
     <name>MircastWidget</name>
     <message>
         <source>Project to</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektuoti į</translation>
     </message>
     <message>
         <source>Searching for devices...</source>
-        <translation type="unfinished"></translation>
+        <translation>Paieška įrenginių...</translation>
     </message>
     <message>
         <source>No Miracast display devices were found. Please connect the device and your computer to the same WLAN network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko rasti Miracast ekrano įrenginių. Prašom prisijungti įrenginį ir kompiuterį prie tamsios WLAN tinklo.</translation>
     </message>
 </context>
 <context>
@@ -232,7 +233,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sukurti šoti</translation>
     </message>
     <message>
         <source>Size</source>
@@ -240,7 +241,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Movie is a full-featured video player, supporting playing local and streaming media in multiple video formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Movie yra pilnai funkcijų video atsisiuntėjas, palaikantis lokalų ir strėmų turinį daugybe video formatų.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -248,27 +249,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Default play mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Numatytoji mygtukų rūšis</translation>
     </message>
     <message>
         <source>Show thumbnails in progress bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti miniatiūras progresų juostelėje</translation>
     </message>
     <message>
         <source>Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodavimas</translation>
     </message>
     <message>
         <source>Auto select (Recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatinis pasirinkimas (Rekomenduojama)</translation>
     </message>
     <message>
         <source>Hardware decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrenginių kodavimas</translation>
     </message>
     <message>
         <source>Software decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Programinės įrangos kodavimas</translation>
+    </message>
+    <message>
+        <source>Customize</source>
+        <translation>Parengti</translation>
+    </message>
+    <message>
+        <source>Decode mode</source>
+        <translation>Kodavimo rūšis</translation>
+    </message>
+    <message>
+        <source>Video out</source>
+        <translation>Vaizdo išėjimas</translation>
+    </message>
+    <message>
+        <source>The custom decoding method needs to be restarted before it can take effect,
+and whether to restart it?</source>
+        <translation>Nepažymėta kodavimo rūšis turi būti paleista iš naujo, kad veiktų,
+
+ar paleisti ją iš naujo?</translation>
+    </message>
+    <message>
+        <source>Rendering engine</source>
+        <translation>Vaizdo apdorojimo sistema</translation>
     </message>
 </context>
 <context>
@@ -302,7 +326,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Empty playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Išvalyti grojaraštį</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -323,6 +347,34 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Open CD/DVD</source>
         <translation>Atverti CD/DVD</translation>
+    </message>
+    <message>
+        <source>Mini Mode</source>
+        <translation>Minimali veiksena</translation>
+    </message>
+    <message>
+        <source>Play Mode</source>
+        <translation>Atkūrimo veiksena</translation>
+    </message>
+    <message>
+        <source>Order Play</source>
+        <translation>Tvarkingas atkūrimas</translation>
+    </message>
+    <message>
+        <source>Shuffle Play</source>
+        <translation>Maišytas atkūrimas</translation>
+    </message>
+    <message>
+        <source>Single Play</source>
+        <translation>Pavienis atkūrimas</translation>
+    </message>
+    <message>
+        <source>Single Loop</source>
+        <translation>Pavienio kartojimas</translation>
+    </message>
+    <message>
+        <source>List Loop</source>
+        <translation>Sąrašo kartojimas</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -373,8 +425,16 @@ Please do not exit the Movie app during the process.</source>
         <translation>Įkelti</translation>
     </message>
     <message>
+        <source>Online Search</source>
+        <translation>Ieškoti internete</translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation>Pasirinkti</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>Slėpti</translation>
     </message>
     <message>
         <source>Encodings</source>
@@ -385,8 +445,20 @@ Please do not exit the Movie app during the process.</source>
         <translation>Ekrano kopija</translation>
     </message>
     <message>
+        <source>Film Screenshot</source>
+        <translation>Filmo ekrano kopija</translation>
+    </message>
+    <message>
+        <source>Burst Shooting</source>
+        <translation>Pliūpsnis ekrano kopijų</translation>
+    </message>
+    <message>
         <source>Playlist</source>
         <translation>Grojaraštis</translation>
+    </message>
+    <message>
+        <source>Film Info</source>
+        <translation>Filmo informacija</translation>
     </message>
     <message>
         <source>Delete from playlist</source>
@@ -397,92 +469,40 @@ Please do not exit the Movie app during the process.</source>
         <translation>Rodyti failų tvarkytuvėje</translation>
     </message>
     <message>
+        <source>Next Frame</source>
+        <translation>Kitas kadras</translation>
+    </message>
+    <message>
+        <source>Previous Frame</source>
+        <translation>Ankstesnis kadras</translation>
+    </message>
+    <message>
         <source>Open screenshot folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Atverti ekranų snypų aplanką</translation>
+    </message>
+    <message>
+        <source>Playback Speed</source>
+        <translation>Grojimo greitis</translation>
     </message>
     <message>
         <source>0.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5x</translation>
     </message>
     <message>
         <source>1.0x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0x</translation>
     </message>
     <message>
         <source>1.2x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.2x</translation>
     </message>
     <message>
         <source>1.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5x</translation>
     </message>
     <message>
         <source>2.0x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished">Groti</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="unfinished">Ankstesnis</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="unfinished">Kitas</translation>
-    </message>
-    <message>
-        <source>Order play</source>
-        <translation type="unfinished">Tvarkingas atkūrimas</translation>
-    </message>
-    <message>
-        <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next frame</source>
-        <translation type="unfinished">Kitas kadras</translation>
-    </message>
-    <message>
-        <source>Previous frame</source>
-        <translation type="unfinished">Ankstesnis kadras</translation>
-    </message>
-    <message>
-        <source>Playback speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mini mode</source>
-        <translation type="unfinished">Minimali veiksena</translation>
-    </message>
-    <message>
-        <source>Online search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Film screenshot</source>
-        <translation type="unfinished">Filmo ekrano kopija</translation>
-    </message>
-    <message>
-        <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>2.0x</translation>
     </message>
 </context>
 <context>
@@ -567,6 +587,14 @@ Please do not exit the Movie app during the process.</source>
         <translation>Greitis: %1x</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation>Žiūrėti</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation>Įrašyta į</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation>Ekrano kopija įrašyta</translation>
     </message>
@@ -580,7 +608,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerasta atitinkama internetinės subtitru rūšis</translation>
     </message>
     <message>
         <source>Cannot open file or stream</source>
@@ -593,6 +621,10 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>No video file found</source>
         <translation>Nerasta jokio vaizdo įrašo failo</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation>Filmo ekrano kopija</translation>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
@@ -624,43 +656,43 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsitiktinis grojimas</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Vienas grojimas</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Vienas ciklas</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Sąrašo ciklas</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>CD/DVD buvo ištraukta</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Išeiti iš smart dock</translation>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyksta grojimo diskui</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyksta keisti žymės</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>Veiksmas šiame vaizdo įraše nesuderinamas</translation>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Visi (*)</translation>
     </message>
     <message>
         <source>Subtitle (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</source>
@@ -669,18 +701,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko prisijungti</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast atjungtas</translation>
     </message>
-</context>
-<context>
-    <name>dmr::MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">Žiūrėti</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">Atsisakyti</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Paleisti iš naujo</translation>
     </message>
 </context>
 <context>
@@ -717,6 +750,10 @@ Please do not exit the Movie app during the process.</source>
         <translation>Trukmė</translation>
     </message>
     <message>
+        <source>Type</source>
+        <translation>Tipas</translation>
+    </message>
+    <message>
         <source>Size</source>
         <translation>Dydis</translation>
     </message>
@@ -726,31 +763,31 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Codec info</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodo informacija</translation>
     </message>
     <message>
         <source>Video CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaizdo kodo identifikatorius</translation>
     </message>
     <message>
         <source>Video CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaizdo kodo spartumas</translation>
     </message>
     <message>
         <source>%1 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 kbps&apos;</translation>
     </message>
     <message>
         <source>FPS</source>
-        <translation type="unfinished"></translation>
+        <translation>FPS</translation>
     </message>
     <message>
         <source>%1 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 fps&apos;</translation>
     </message>
     <message>
         <source>Proportion</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporcija</translation>
     </message>
     <message>
         <source>%1</source>
@@ -758,58 +795,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Audio info</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio informacija</translation>
     </message>
     <message>
         <source>Audio CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio kodo identifikatorius</translation>
     </message>
     <message>
         <source>Audio CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio kodo spartumas</translation>
     </message>
     <message>
         <source>Audio digit</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio bitas</translation>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 bits&apos;</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>kanalai</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 kanalai&apos;</translation>
     </message>
     <message>
         <source>Sampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Vėjinimas</translation>
     </message>
     <message>
         <source>%1hz</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1hz&apos;</translation>
     </message>
     <message>
         <source>%1 bps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 bps&apos;</translation>
     </message>
 </context>
 <context>
     <name>dmr::MpvProxy</name>
     <message>
         <source>Internal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vidinis</translation>
     </message>
 </context>
 <context>
@@ -824,7 +853,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyksta grojimo diskui</translation>
     </message>
     <message>
         <source>Parse failed</source>
@@ -836,7 +865,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Visi (*)</translation>
     </message>
     <message>
         <source>Speed: %1x</source>
@@ -860,7 +889,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyksta keisti subtytu</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -880,6 +909,18 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Subtitrai (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation type="unfinished">Žiūrėti</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation type="unfinished">Filmo ekrano kopija</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation type="unfinished">Įrašyta į</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation type="unfinished">Ekrano kopija įrašyta</translation>
     </message>
@@ -897,7 +938,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Nėra atitinkamų internetinių subtytu</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
@@ -913,19 +954,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsitiktinis grojimas</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Vienas grojimas</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Vienas ciklas</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Sąrašo ciklas</translation>
     </message>
     <message>
         <source>Buffering...</source>
@@ -961,15 +1002,15 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Išeikite iš intelektinio dock</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>CD/DVD buvo ištraukta</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>Veiksmas šiame vaizdo įraše nesuderinta</translation>
     </message>
     <message>
         <source>Invalid file: %1</source>
@@ -977,18 +1018,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko prisijungti</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast atjungtas</translation>
     </message>
-</context>
-<context>
-    <name>dmr::Platform_MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">Žiūrėti</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">Atsisakyti</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Paleisti iš naujo</translation>
     </message>
 </context>
 <context>
@@ -1005,8 +1047,12 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Grojaraštis</translation>
     </message>
     <message>
+        <source>Empty</source>
+        <translation type="unfinished">Išvalyti</translation>
+    </message>
+    <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 vaizdo įrašai&apos;</translation>
     </message>
 </context>
 <context>
@@ -1016,20 +1062,16 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Groti/Pristabdyti</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">0.5 sek. atgal {15s?}</translation>
+        <source>Previous</source>
+        <translation type="unfinished">Ankstesnis</translation>
     </message>
     <message>
-        <source>15s forward</source>
-        <translation type="unfinished">0.5 sek. pirmyn {15s?}</translation>
+        <source>Next</source>
+        <translation type="unfinished">Kitas</translation>
     </message>
     <message>
         <source>Fullscreen</source>
         <translation type="unfinished">Visas ekranas</translation>
-    </message>
-    <message>
-        <source>Miracast</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Playlist</source>
@@ -1047,6 +1089,10 @@ Please do not exit the Movie app during the process.</source>
         <source>Play</source>
         <translation type="unfinished">Groti</translation>
     </message>
+    <message>
+        <source>Miracast</source>
+        <translation>Miracast</translation>
+    </message>
 </context>
 <context>
     <name>dmr::PlayItemWidget</name>
@@ -1063,7 +1109,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 vaizdo įrašai&apos;</translation>
+    </message>
+    <message>
+        <source>Empty</source>
+        <translation>Išvalyti</translation>
     </message>
 </context>
 <context>
@@ -1078,31 +1128,31 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsitiktinis grojimas</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Vienas grojimas</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Vienas ciklas</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Sąrašo ciklas</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatinis</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Uždaryti</translation>
     </message>
 </context>
 <context>
@@ -1110,6 +1160,14 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Play</source>
         <translation>Groti</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>Ankstesnis</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Kitas</translation>
     </message>
     <message>
         <source>Playlist</source>
@@ -1132,16 +1190,19 @@ Please do not exit the Movie app during the process.</source>
         <translation>Pristabdyti</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">0.5 sek. atgal {15s?}</translation>
-    </message>
-    <message>
-        <source>15s forward</source>
-        <translation type="unfinished">0.5 sek. pirmyn {15s?}</translation>
-    </message>
-    <message>
         <source>Miracast</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Garsas</translation>
+    </message>
+</context>
+<context>
+    <name>dmr::VolumeButton</name>
+    <message>
+        <source>Volume</source>
+        <translation>Garsas</translation>
     </message>
 </context>
 </TS>

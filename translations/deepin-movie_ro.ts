@@ -4,32 +4,33 @@
 <context>
     <name>MircastShowWidget</name>
     <message>
-        <source>Exit Miracast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Projecting... 
 Please do not exit the Movie app during the process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proiectare...
+Vă rugăm să nu ieșiți din aplicația Movie în timpul procesului.</translation>
     </message>
     <message>
         <source>Display device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispozitiv de afișare</translation>
+    </message>
+    <message>
+        <source>Exit Miracast</source>
+        <translation>Ieșiți din Miracast</translation>
     </message>
 </context>
 <context>
     <name>MircastWidget</name>
     <message>
         <source>Project to</source>
-        <translation type="unfinished"></translation>
+        <translation>Proiectați către</translation>
     </message>
     <message>
         <source>Searching for devices...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cautare dispozitive...</translation>
     </message>
     <message>
         <source>No Miracast display devices were found. Please connect the device and your computer to the same WLAN network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au găsit dispozitive de afișare Miracast. Conectați dispozitivul și computerul la aceeași rețea WLAN.</translation>
     </message>
 </context>
 <context>
@@ -44,7 +45,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Network disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Rețea dezconectată</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to operate this folder</source>
@@ -204,7 +205,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Exit fullscreen/mini mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieșiți din modul fullscreen/mini</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -224,7 +225,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Delete from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți din playlist</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -232,7 +233,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotografie în serie</translation>
     </message>
     <message>
         <source>Size</source>
@@ -240,7 +241,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Movie is a full-featured video player, supporting playing local and streaming media in multiple video formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Movie este un player de videoclipuri complet, care suportă jocul mediilor locale și streaming în mai multe formate video.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -248,27 +249,49 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Show thumbnails in progress bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Arătați miniature în bara de progres</translation>
     </message>
     <message>
         <source>Default play mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod joc implicit</translation>
     </message>
     <message>
         <source>Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Decodare</translation>
     </message>
     <message>
         <source>Auto select (Recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie automată (Recomandat)</translation>
     </message>
     <message>
         <source>Hardware decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Decodare hardware</translation>
     </message>
     <message>
         <source>Software decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Decodare software</translation>
+    </message>
+    <message>
+        <source>Customize</source>
+        <translation>Personalizați</translation>
+    </message>
+    <message>
+        <source>Decode mode</source>
+        <translation>Mod decodare</translation>
+    </message>
+    <message>
+        <source>Video out</source>
+        <translation>Ieșire video</translation>
+    </message>
+    <message>
+        <source>The custom decoding method needs to be restarted before it can take effect,
+and whether to restart it?</source>
+        <translation>Metoda de decodare personalizată trebuie reluată înainte de a putea avea efect,
+și dacă să o reluați?</translation>
+    </message>
+    <message>
+        <source>Rendering engine</source>
+        <translation>Motor de renderizare</translation>
     </message>
 </context>
 <context>
@@ -302,7 +325,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Empty playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Golitiți playlist-ul</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -323,6 +346,34 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Open CD/DVD</source>
         <translation>Deschide CD/DVD</translation>
+    </message>
+    <message>
+        <source>Mini Mode</source>
+        <translation>Mod Mini</translation>
+    </message>
+    <message>
+        <source>Play Mode</source>
+        <translation>Mod redare</translation>
+    </message>
+    <message>
+        <source>Order Play</source>
+        <translation>Redare în ordine</translation>
+    </message>
+    <message>
+        <source>Shuffle Play</source>
+        <translation>Redare aleatorie</translation>
+    </message>
+    <message>
+        <source>Single Play</source>
+        <translation>Redă un singur fisier</translation>
+    </message>
+    <message>
+        <source>Single Loop</source>
+        <translation>Redă video-ul fără pauză</translation>
+    </message>
+    <message>
+        <source>List Loop</source>
+        <translation>Redă lista fără pauză</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -373,8 +424,16 @@ Please do not exit the Movie app during the process.</source>
         <translation>Încarcare</translation>
     </message>
     <message>
+        <source>Online Search</source>
+        <translation>Căutare online</translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation>Selectare</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>Ascundere</translation>
     </message>
     <message>
         <source>Encodings</source>
@@ -385,104 +444,64 @@ Please do not exit the Movie app during the process.</source>
         <translation>Captură  ecran</translation>
     </message>
     <message>
+        <source>Film Screenshot</source>
+        <translation>Captură ecran video</translation>
+    </message>
+    <message>
+        <source>Burst Shooting</source>
+        <translation>Captură ecran rafală</translation>
+    </message>
+    <message>
         <source>Playlist</source>
         <translation>Lista de redare</translation>
     </message>
     <message>
+        <source>Film Info</source>
+        <translation>Informație video</translation>
+    </message>
+    <message>
         <source>Delete from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergeți din playlist</translation>
     </message>
     <message>
         <source>Display in file manager</source>
         <translation>Deschide în managerul de fișiere</translation>
     </message>
     <message>
+        <source>Next Frame</source>
+        <translation>Fereastra următoare</translation>
+    </message>
+    <message>
+        <source>Previous Frame</source>
+        <translation>Fereastra anterioară</translation>
+    </message>
+    <message>
         <source>Open screenshot folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți dosarul de ecran</translation>
+    </message>
+    <message>
+        <source>Playback Speed</source>
+        <translation>Viteza de redare</translation>
     </message>
     <message>
         <source>0.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5x</translation>
     </message>
     <message>
         <source>1.0x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0x</translation>
     </message>
     <message>
         <source>1.2x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.2x</translation>
     </message>
     <message>
         <source>1.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5x</translation>
     </message>
     <message>
         <source>2.0x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished">Redare</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="unfinished">Precedent</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="unfinished">Următorul</translation>
-    </message>
-    <message>
-        <source>Order play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next frame</source>
-        <translation type="unfinished">Cadrul următor</translation>
-    </message>
-    <message>
-        <source>Previous frame</source>
-        <translation type="unfinished">Cadrul trecut</translation>
-    </message>
-    <message>
-        <source>Playback speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mini mode</source>
-        <translation type="unfinished">Minimalizare fereastră</translation>
-    </message>
-    <message>
-        <source>Online search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Film screenshot</source>
-        <translation type="unfinished">Captură ecran video</translation>
-    </message>
-    <message>
-        <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>2.0x</translation>
     </message>
 </context>
 <context>
@@ -536,7 +555,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Parse failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare de analiză</translation>
     </message>
     <message>
         <source>Mute</source>
@@ -548,7 +567,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Track: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Track: %1</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -567,6 +586,14 @@ Please do not exit the Movie app during the process.</source>
         <translation>Viteză: %1x</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation>Aspect</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation>Salvare la</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation>Salvare captura de ecran efectuată</translation>
     </message>
@@ -580,11 +607,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu există subtitrări online corespunzătoare</translation>
     </message>
     <message>
         <source>Cannot open file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide fișierul sau fluxul</translation>
     </message>
     <message>
         <source>Invalid file</source>
@@ -592,11 +619,15 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>No video file found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a găsit fișier video</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation>Captură ecran video</translation>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ia ecranul, vă rugăm așteptați...</translation>
     </message>
     <message>
         <source>OK</source>
@@ -604,63 +635,63 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Please insert a CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă rugăm să introduceți un CD/DVD</translation>
     </message>
     <message>
         <source>Reading DVD files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citesc fișiere DVD...</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
-        <translation type="unfinished"></translation>
+        <translation>Video 4K poate fi blocat</translation>
     </message>
     <message>
         <source>Please load the video first</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă rugăm să încărcați mai întâi videoul</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>Redare ordonată</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Redare aleatorie</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Redare unică</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bucată unică</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Listă buclă</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>CD/DVD-ul a fost ejectat</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă rugăm să ieșiți din smart dock</translation>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate juca discul</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate ajusta subtitrarea</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>Această acțiune nu este susținută în acest videoclip</translation>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate (*)</translation>
     </message>
     <message>
         <source>Subtitle (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</source>
@@ -669,18 +700,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexiune eșuată</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast dezconectat</translation>
     </message>
-</context>
-<context>
-    <name>dmr::MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">Aspect</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulare</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Redemarcați</translation>
     </message>
 </context>
 <context>
@@ -717,6 +749,10 @@ Please do not exit the Movie app during the process.</source>
         <translation>Durată</translation>
     </message>
     <message>
+        <source>Type</source>
+        <translation>Tip</translation>
+    </message>
+    <message>
         <source>Size</source>
         <translation>Dimensiune</translation>
     </message>
@@ -726,31 +762,31 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Codec info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informații codec</translation>
     </message>
     <message>
         <source>Video CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID codec video</translation>
     </message>
     <message>
         <source>Video CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rata codificării video</translation>
     </message>
     <message>
         <source>%1 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kbps</translation>
     </message>
     <message>
         <source>FPS</source>
-        <translation type="unfinished"></translation>
+        <translation>FPS</translation>
     </message>
     <message>
         <source>%1 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fps</translation>
     </message>
     <message>
         <source>Proportion</source>
-        <translation type="unfinished"></translation>
+        <translation>Proportie</translation>
     </message>
     <message>
         <source>%1</source>
@@ -758,58 +794,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Audio info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informații audio</translation>
     </message>
     <message>
         <source>Audio CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Codec audio</translation>
     </message>
     <message>
         <source>Audio CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rata codificare audio</translation>
     </message>
     <message>
         <source>Audio digit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bit audio</translation>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 baiți</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Canale</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 canale</translation>
     </message>
     <message>
         <source>Sampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Eșantionare</translation>
     </message>
     <message>
         <source>%1hz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Hz</translation>
     </message>
     <message>
         <source>%1 bps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bps</translation>
     </message>
 </context>
 <context>
     <name>dmr::MpvProxy</name>
     <message>
         <source>Internal</source>
-        <translation type="unfinished"></translation>
+        <translation>Internal</translation>
     </message>
 </context>
 <context>
@@ -824,11 +852,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate juca discul</translation>
     </message>
     <message>
         <source>Parse failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Analiza a eșuat</translation>
     </message>
     <message>
         <source>Open folder</source>
@@ -836,7 +864,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate (*)</translation>
     </message>
     <message>
         <source>Speed: %1x</source>
@@ -856,11 +884,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Track: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Track: %1</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate ajusta subtitlul</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -880,6 +908,18 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Subtitrare (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation type="unfinished">Aspect</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation type="unfinished">Captură ecran video</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation type="unfinished">Salvare la</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation type="unfinished">Salvare captura de ecran efectuată</translation>
     </message>
@@ -889,19 +929,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se iau ecranele de captură, vă rugăm așteptați...</translation>
     </message>
     <message>
         <source>Reading DVD files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se citește fișierele DVD...</translation>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu există subtitluri online corespunzătoare</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
-        <translation type="unfinished"></translation>
+        <translation>Video-ul 4K poate fi blocat</translation>
     </message>
     <message>
         <source>OK</source>
@@ -909,23 +949,23 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jocă în ordine</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jocă în mod aleator</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jocă singur</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bucătă singură</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bucătă în listă</translation>
     </message>
     <message>
         <source>Buffering...</source>
@@ -941,7 +981,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot open file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu se poate deschide fișierul sau fluxul</translation>
     </message>
     <message>
         <source>Invalid file</source>
@@ -949,27 +989,27 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Please insert a CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă rugăm să introduceți un CD/DVD</translation>
     </message>
     <message>
         <source>No video file found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a găsit fișier video</translation>
     </message>
     <message>
         <source>Please load the video first</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă rugăm să încărcați mai întâi videoul</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă rugăm să ieșiți din smart dock</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>CD-ul/DVD-ul a fost eliberat</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>Această acțiune nu este susținută în acest videoclip</translation>
     </message>
     <message>
         <source>Invalid file: %1</source>
@@ -977,25 +1017,26 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexiunea a eșuat</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast a fost dezconectat</translation>
     </message>
-</context>
-<context>
-    <name>dmr::Platform_MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">Aspect</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">Anulare</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Redemarcați</translation>
     </message>
 </context>
 <context>
     <name>dmr::Platform_PlayItemWidget</name>
     <message>
         <source>The file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul nu există</translation>
     </message>
 </context>
 <context>
@@ -1005,8 +1046,12 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Lista de redare</translation>
     </message>
     <message>
+        <source>Empty</source>
+        <translation type="unfinished">Gol</translation>
+    </message>
+    <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 videoclipuri</translation>
     </message>
 </context>
 <context>
@@ -1016,20 +1061,16 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Redare/Pauză</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">0.5s înapoi {15s?}</translation>
+        <source>Previous</source>
+        <translation type="unfinished">Precedent</translation>
     </message>
     <message>
-        <source>15s forward</source>
-        <translation type="unfinished">0.5s înainte {15s?}</translation>
+        <source>Next</source>
+        <translation type="unfinished">Următorul</translation>
     </message>
     <message>
         <source>Fullscreen</source>
         <translation type="unfinished">Redare ecran complet</translation>
-    </message>
-    <message>
-        <source>Miracast</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Playlist</source>
@@ -1047,12 +1088,16 @@ Please do not exit the Movie app during the process.</source>
         <source>Play</source>
         <translation type="unfinished">Redare</translation>
     </message>
+    <message>
+        <source>Miracast</source>
+        <translation>Miracast</translation>
+    </message>
 </context>
 <context>
     <name>dmr::PlayItemWidget</name>
     <message>
         <source>The file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul nu există</translation>
     </message>
 </context>
 <context>
@@ -1063,46 +1108,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 videoclipuri</translation>
+    </message>
+    <message>
+        <source>Empty</source>
+        <translation>Gol</translation>
     </message>
 </context>
 <context>
     <name>dmr::Settings</name>
     <message>
         <source>%1/Movie%2(%3).jpg</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/Movie%2(%3).jpg</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezervare</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Amestec</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezervare</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bucățică</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Listă</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
 </context>
 <context>
@@ -1110,6 +1159,14 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Play</source>
         <translation>Redare</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>Precedent</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Următorul</translation>
     </message>
     <message>
         <source>Playlist</source>
@@ -1132,16 +1189,19 @@ Please do not exit the Movie app during the process.</source>
         <translation>Pauză</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">0.5s înapoi {15s?}</translation>
-    </message>
-    <message>
-        <source>15s forward</source>
-        <translation type="unfinished">0.5s înainte {15s?}</translation>
-    </message>
-    <message>
         <source>Miracast</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Volum</translation>
+    </message>
+</context>
+<context>
+    <name>dmr::VolumeButton</name>
+    <message>
+        <source>Volume</source>
+        <translation>Volum</translation>
     </message>
 </context>
 </TS>

@@ -4,32 +4,33 @@
 <context>
     <name>MircastShowWidget</name>
     <message>
-        <source>Exit Miracast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Projecting... 
 Please do not exit the Movie app during the process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Projicerar... 
+Vänligen lämna inte Movie-appen under processen.</translation>
     </message>
     <message>
         <source>Display device</source>
-        <translation type="unfinished"></translation>
+        <translation>Visningsenhet</translation>
+    </message>
+    <message>
+        <source>Exit Miracast</source>
+        <translation>Avsluta Miracast</translation>
     </message>
 </context>
 <context>
     <name>MircastWidget</name>
     <message>
         <source>Project to</source>
-        <translation type="unfinished"></translation>
+        <translation>Projicera till</translation>
     </message>
     <message>
         <source>Searching for devices...</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker efter enheter...</translation>
     </message>
     <message>
         <source>No Miracast display devices were found. Please connect the device and your computer to the same WLAN network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga Miracast visningsenheter hittades. Anslut enheten och din dator till samma WLAN-nätverk.</translation>
     </message>
 </context>
 <context>
@@ -44,7 +45,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Network disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverket är avskurnet</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to operate this folder</source>
@@ -204,7 +205,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Exit fullscreen/mini mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Avsluta fullskär/minimiläge</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -224,7 +225,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Delete from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort från spellista</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -232,7 +233,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
+        <translation>Burstfotografi</translation>
     </message>
     <message>
         <source>Size</source>
@@ -240,7 +241,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Movie is a full-featured video player, supporting playing local and streaming media in multiple video formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Movie är en fullfunktionell videospelare, som stöder spelning av lokala och strömmande medier i flera videoformater.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -248,27 +249,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Show thumbnails in progress bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa minibildsförhandsgranskningar i förloppslinjen</translation>
     </message>
     <message>
         <source>Default play mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardspelning</translation>
     </message>
     <message>
         <source>Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Avkodning</translation>
     </message>
     <message>
         <source>Auto select (Recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk val (Rekommenderat)</translation>
     </message>
     <message>
         <source>Hardware decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Hårdvaruavkodning</translation>
     </message>
     <message>
         <source>Software decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Programvaruavkodning</translation>
+    </message>
+    <message>
+        <source>Customize</source>
+        <translation>Anpassa</translation>
+    </message>
+    <message>
+        <source>Decode mode</source>
+        <translation>Avkodningsläge</translation>
+    </message>
+    <message>
+        <source>Video out</source>
+        <translation>Videoutgång</translation>
+    </message>
+    <message>
+        <source>The custom decoding method needs to be restarted before it can take effect,
+and whether to restart it?</source>
+        <translation>Den anpassade avkodningsmetoden måste startas om innan den kan börja gälla,
+
+och vill du starta om den?</translation>
+    </message>
+    <message>
+        <source>Rendering engine</source>
+        <translation>Rendringsmotor</translation>
     </message>
 </context>
 <context>
@@ -302,7 +326,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Empty playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm spellista</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -323,6 +347,34 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Open CD/DVD</source>
         <translation>Öppna CD/DVD</translation>
+    </message>
+    <message>
+        <source>Mini Mode</source>
+        <translation>Miniläge</translation>
+    </message>
+    <message>
+        <source>Play Mode</source>
+        <translation>Uppspelningsläge</translation>
+    </message>
+    <message>
+        <source>Order Play</source>
+        <translation>Spela efter ordning</translation>
+    </message>
+    <message>
+        <source>Shuffle Play</source>
+        <translation>Slumpa spelning</translation>
+    </message>
+    <message>
+        <source>Single Play</source>
+        <translation>Enskilt spelning</translation>
+    </message>
+    <message>
+        <source>Single Loop</source>
+        <translation>Loopa låt</translation>
+    </message>
+    <message>
+        <source>List Loop</source>
+        <translation>Loopa spellista</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -373,8 +425,16 @@ Please do not exit the Movie app during the process.</source>
         <translation>Ladda</translation>
     </message>
     <message>
+        <source>Online Search</source>
+        <translation>Online Sök</translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation>Välj</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>Göm</translation>
     </message>
     <message>
         <source>Encodings</source>
@@ -385,104 +445,64 @@ Please do not exit the Movie app during the process.</source>
         <translation>Skärmdump</translation>
     </message>
     <message>
+        <source>Film Screenshot</source>
+        <translation>Ta en skärmbild</translation>
+    </message>
+    <message>
+        <source>Burst Shooting</source>
+        <translation>Burst Shooting</translation>
+    </message>
+    <message>
         <source>Playlist</source>
         <translation>Spellista</translation>
     </message>
     <message>
+        <source>Film Info</source>
+        <translation>Film Info</translation>
+    </message>
+    <message>
         <source>Delete from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort från spellista</translation>
     </message>
     <message>
         <source>Display in file manager</source>
         <translation>Visa i filhanteraren</translation>
     </message>
     <message>
+        <source>Next Frame</source>
+        <translation>Nästa bild</translation>
+    </message>
+    <message>
+        <source>Previous Frame</source>
+        <translation>Föregående bild</translation>
+    </message>
+    <message>
         <source>Open screenshot folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna mapp för skärmbild</translation>
+    </message>
+    <message>
+        <source>Playback Speed</source>
+        <translation>Spelningsspeed</translation>
     </message>
     <message>
         <source>0.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5x</translation>
     </message>
     <message>
         <source>1.0x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0x</translation>
     </message>
     <message>
         <source>1.2x</source>
-        <translation type="unfinished"></translation>
+        <translation>1,2x</translation>
     </message>
     <message>
         <source>1.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>1,5x</translation>
     </message>
     <message>
         <source>2.0x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished">Spela</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="unfinished">Föregående</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="unfinished">Nästa</translation>
-    </message>
-    <message>
-        <source>Order play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next frame</source>
-        <translation type="unfinished">Nästa bildruta</translation>
-    </message>
-    <message>
-        <source>Previous frame</source>
-        <translation type="unfinished">Föregående bildruta</translation>
-    </message>
-    <message>
-        <source>Playback speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mini mode</source>
-        <translation type="unfinished">Miniläge</translation>
-    </message>
-    <message>
-        <source>Online search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Film screenshot</source>
-        <translation type="unfinished">Ta en skärmbild</translation>
-    </message>
-    <message>
-        <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>2,0x</translation>
     </message>
 </context>
 <context>
@@ -536,7 +556,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Parse failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Parse misslyckades</translation>
     </message>
     <message>
         <source>Mute</source>
@@ -548,7 +568,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Track: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spår: %1</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -567,6 +587,14 @@ Please do not exit the Movie app during the process.</source>
         <translation>Hastighet: %1x</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation>Visa</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation>Sparad till</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation>Skärmbilden har sparats</translation>
     </message>
@@ -580,11 +608,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga matchande online undertexter hittades</translation>
     </message>
     <message>
         <source>Cannot open file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna fil eller ström</translation>
     </message>
     <message>
         <source>Invalid file</source>
@@ -592,11 +620,15 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>No video file found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen videofil hittades</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation>Ta en skärmbild</translation>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar skärmbild, vänligen vänta...</translation>
     </message>
     <message>
         <source>OK</source>
@@ -604,63 +636,63 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Please insert a CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänligen sätt in en CD/DVD</translation>
     </message>
     <message>
         <source>Reading DVD files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Läser DVD-filer...</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
-        <translation type="unfinished"></translation>
+        <translation>4K-video kan vara fast</translation>
     </message>
     <message>
         <source>Please load the video first</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänligen ladda videon först</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordningsspel</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Slumpspel</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel spel</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel loop</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista loop</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>CD/DVD har tagits ut</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänligen lämna smart dock</translation>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte spela på disken</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte justera undertexten</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta åtgärd stöds inte i denna video</translation>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla (*)</translation>
     </message>
     <message>
         <source>Subtitle (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</source>
@@ -669,18 +701,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutning misslyckades</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast kopplad bort</translation>
     </message>
-</context>
-<context>
-    <name>dmr::MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">Visa</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">Avbryt</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Starta om</translation>
     </message>
 </context>
 <context>
@@ -717,6 +750,10 @@ Please do not exit the Movie app during the process.</source>
         <translation>Varaktighet</translation>
     </message>
     <message>
+        <source>Type</source>
+        <translation>Typ</translation>
+    </message>
+    <message>
         <source>Size</source>
         <translation>Storlek</translation>
     </message>
@@ -726,31 +763,31 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Codec info</source>
-        <translation type="unfinished"></translation>
+        <translation>Kodexinfo</translation>
     </message>
     <message>
         <source>Video CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>Video CodecID</translation>
     </message>
     <message>
         <source>Video CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>Video CodeRate</translation>
     </message>
     <message>
         <source>%1 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kbps</translation>
     </message>
     <message>
         <source>FPS</source>
-        <translation type="unfinished"></translation>
+        <translation>FPS</translation>
     </message>
     <message>
         <source>%1 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fps</translation>
     </message>
     <message>
         <source>Proportion</source>
-        <translation type="unfinished"></translation>
+        <translation>Proportion</translation>
     </message>
     <message>
         <source>%1</source>
@@ -758,58 +795,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Audio info</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudinformation</translation>
     </message>
     <message>
         <source>Audio CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudkod-ID</translation>
     </message>
     <message>
         <source>Audio CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudkodstakt</translation>
     </message>
     <message>
         <source>Audio digit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudbit</translation>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bit</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanaler</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kanaler</translation>
     </message>
     <message>
         <source>Sampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Samplingsfrekvens</translation>
     </message>
     <message>
         <source>%1hz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Hz</translation>
     </message>
     <message>
         <source>%1 bps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bps</translation>
     </message>
 </context>
 <context>
     <name>dmr::MpvProxy</name>
     <message>
         <source>Internal</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt</translation>
     </message>
 </context>
 <context>
@@ -824,11 +853,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte spela disken</translation>
     </message>
     <message>
         <source>Parse failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Parse misslyckades</translation>
     </message>
     <message>
         <source>Open folder</source>
@@ -836,7 +865,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla (*)</translation>
     </message>
     <message>
         <source>Speed: %1x</source>
@@ -856,11 +885,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Track: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spår: %1</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte justera undertexten</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -880,6 +909,18 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Undertext (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation type="unfinished">Visa</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation type="unfinished">Ta en skärmbild</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation type="unfinished">Sparad till</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation type="unfinished">Skärmbilden har sparats</translation>
     </message>
@@ -889,19 +930,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar skärmbilder, vänligen vänta...</translation>
     </message>
     <message>
         <source>Reading DVD files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Läser DVD-filer...</translation>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga matchande online-undertexter</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
-        <translation type="unfinished"></translation>
+        <translation>4K-video kan vara blockad</translation>
     </message>
     <message>
         <source>OK</source>
@@ -909,23 +950,23 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordinär spelande</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Slumpmässigt spelande</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel spelande</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel loop</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista loop</translation>
     </message>
     <message>
         <source>Buffering...</source>
@@ -941,7 +982,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot open file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna fil eller ström</translation>
     </message>
     <message>
         <source>Invalid file</source>
@@ -949,27 +990,27 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Please insert a CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänligen infäst ett CD/DVD</translation>
     </message>
     <message>
         <source>No video file found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen videofil hittad</translation>
     </message>
     <message>
         <source>Please load the video first</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda videon först</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Avsluta smart dock</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>CD/DVD har tagits ut</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta åtgärd stöds inte i denna video</translation>
     </message>
     <message>
         <source>Invalid file: %1</source>
@@ -977,25 +1018,26 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutning misslyckades</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast kopplad bort</translation>
     </message>
-</context>
-<context>
-    <name>dmr::Platform_MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">Visa</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">Avbryt</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Starta om</translation>
     </message>
 </context>
 <context>
     <name>dmr::Platform_PlayItemWidget</name>
     <message>
         <source>The file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Filn finns inte</translation>
     </message>
 </context>
 <context>
@@ -1005,8 +1047,12 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Spellista</translation>
     </message>
     <message>
+        <source>Empty</source>
+        <translation type="unfinished">Tom</translation>
+    </message>
+    <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 videor</translation>
     </message>
 </context>
 <context>
@@ -1016,20 +1062,16 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Spela/Pausa</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">0.5s bakåt {15s?}</translation>
+        <source>Previous</source>
+        <translation type="unfinished">Föregående</translation>
     </message>
     <message>
-        <source>15s forward</source>
-        <translation type="unfinished">0.5s framåt {15s?}</translation>
+        <source>Next</source>
+        <translation type="unfinished">Nästa</translation>
     </message>
     <message>
         <source>Fullscreen</source>
         <translation type="unfinished">Fullskärm</translation>
-    </message>
-    <message>
-        <source>Miracast</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Playlist</source>
@@ -1047,12 +1089,16 @@ Please do not exit the Movie app during the process.</source>
         <source>Play</source>
         <translation type="unfinished">Spela</translation>
     </message>
+    <message>
+        <source>Miracast</source>
+        <translation>Miracast</translation>
+    </message>
 </context>
 <context>
     <name>dmr::PlayItemWidget</name>
     <message>
         <source>The file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Filn finns inte</translation>
     </message>
 </context>
 <context>
@@ -1063,46 +1109,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 videor</translation>
+    </message>
+    <message>
+        <source>Empty</source>
+        <translation>Tom</translation>
     </message>
 </context>
 <context>
     <name>dmr::Settings</name>
     <message>
         <source>%1/Movie%2(%3).jpg</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/Movie%2(%3).jpg</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela i ordning</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Slumpa spela</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel spela</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel loop</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista loop</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Stänga</translation>
     </message>
 </context>
 <context>
@@ -1110,6 +1160,14 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Play</source>
         <translation>Spela</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>Föregående</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Nästa</translation>
     </message>
     <message>
         <source>Playlist</source>
@@ -1132,16 +1190,19 @@ Please do not exit the Movie app during the process.</source>
         <translation>Pausa</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">0.5s bakåt {15s?}</translation>
-    </message>
-    <message>
-        <source>15s forward</source>
-        <translation type="unfinished">0.5s framåt {15s?}</translation>
-    </message>
-    <message>
         <source>Miracast</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Volym</translation>
+    </message>
+</context>
+<context>
+    <name>dmr::VolumeButton</name>
+    <message>
+        <source>Volume</source>
+        <translation>Volym</translation>
     </message>
 </context>
 </TS>

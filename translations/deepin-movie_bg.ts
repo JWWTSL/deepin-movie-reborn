@@ -4,32 +4,33 @@
 <context>
     <name>MircastShowWidget</name>
     <message>
-        <source>Exit Miracast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Projecting... 
 Please do not exit the Movie app during the process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проектиране... 
+Моля, не излизайте от приложението Movie по време на процеса.</translation>
     </message>
     <message>
         <source>Display device</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение на устройство</translation>
+    </message>
+    <message>
+        <source>Exit Miracast</source>
+        <translation>Изход от Miracast</translation>
     </message>
 </context>
 <context>
     <name>MircastWidget</name>
     <message>
         <source>Project to</source>
-        <translation type="unfinished"></translation>
+        <translation>Проектиране към</translation>
     </message>
     <message>
         <source>Searching for devices...</source>
-        <translation type="unfinished"></translation>
+        <translation>Търсене на устройства...</translation>
     </message>
     <message>
         <source>No Miracast display devices were found. Please connect the device and your computer to the same WLAN network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не са намерени Miracast устройства за изображение. Моля, свърнете устройството и вашия компютър към същата WLAN мрежа.</translation>
     </message>
 </context>
 <context>
@@ -44,7 +45,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Network disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Мрежата е отключена</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to operate this folder</source>
@@ -204,7 +205,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Exit fullscreen/mini mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Изход от режим fullscreen/mini</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -224,7 +225,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Delete from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Премахнете от списъка с видеа</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -232,7 +233,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
+        <translation>Бързи снимки</translation>
     </message>
     <message>
         <source>Size</source>
@@ -240,7 +241,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Movie is a full-featured video player, supporting playing local and streaming media in multiple video formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Movie е пълнофункционален видео плеер, поддържащ изпълнение на местни и стрийминг медии в няколко видео формата.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -248,27 +249,49 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Show thumbnails in progress bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Покажи миниатюри в преговорната лента</translation>
     </message>
     <message>
         <source>Default play mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартен режим на изпълнение</translation>
     </message>
     <message>
         <source>Decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Декодиране</translation>
     </message>
     <message>
         <source>Auto select (Recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматичен избор (Рекомендуван)</translation>
     </message>
     <message>
         <source>Hardware decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Хардуерно декодиране</translation>
     </message>
     <message>
         <source>Software decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Меко декодиране</translation>
+    </message>
+    <message>
+        <source>Customize</source>
+        <translation>Персонализиране</translation>
+    </message>
+    <message>
+        <source>Decode mode</source>
+        <translation>Режим на декодиране</translation>
+    </message>
+    <message>
+        <source>Video out</source>
+        <translation>Видео изход</translation>
+    </message>
+    <message>
+        <source>The custom decoding method needs to be restarted before it can take effect,
+and whether to restart it?</source>
+        <translation>Персонализираната методика за декодиране трябва да се рестартира преди да влезе в сила,
+и дали да се рестартира?</translation>
+    </message>
+    <message>
+        <source>Rendering engine</source>
+        <translation>Рендериране на движение</translation>
     </message>
 </context>
 <context>
@@ -302,7 +325,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Empty playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Празен списък с видеа</translation>
     </message>
     <message>
         <source>Film info</source>
@@ -323,6 +346,34 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Open CD/DVD</source>
         <translation>Отвори CD/DVD</translation>
+    </message>
+    <message>
+        <source>Mini Mode</source>
+        <translation>Минималистичен режим</translation>
+    </message>
+    <message>
+        <source>Play Mode</source>
+        <translation>Режим на възпроизвеждане</translation>
+    </message>
+    <message>
+        <source>Order Play</source>
+        <translation>Ред на изпълнение</translation>
+    </message>
+    <message>
+        <source>Shuffle Play</source>
+        <translation>Разбъркано изпълнение</translation>
+    </message>
+    <message>
+        <source>Single Play</source>
+        <translation>Повторение на изпълнението</translation>
+    </message>
+    <message>
+        <source>Single Loop</source>
+        <translation>Еднократно повторение</translation>
+    </message>
+    <message>
+        <source>List Loop</source>
+        <translation>Повторение на списъка</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -373,8 +424,16 @@ Please do not exit the Movie app during the process.</source>
         <translation>Зареди</translation>
     </message>
     <message>
+        <source>Online Search</source>
+        <translation>Търсене онлайн</translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation>Избери</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>Скриване</translation>
     </message>
     <message>
         <source>Encodings</source>
@@ -385,104 +444,64 @@ Please do not exit the Movie app during the process.</source>
         <translation>Снимка на екрана</translation>
     </message>
     <message>
+        <source>Film Screenshot</source>
+        <translation>Кадър от филма</translation>
+    </message>
+    <message>
+        <source>Burst Shooting</source>
+        <translation>Последователно снимане</translation>
+    </message>
+    <message>
         <source>Playlist</source>
         <translation>Плейлист</translation>
     </message>
     <message>
+        <source>Film Info</source>
+        <translation>Информация за филм</translation>
+    </message>
+    <message>
         <source>Delete from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Премахнете от списъка с видеа</translation>
     </message>
     <message>
         <source>Display in file manager</source>
         <translation>Покажи във файловия мениджър</translation>
     </message>
     <message>
+        <source>Next Frame</source>
+        <translation>Следваща кадър</translation>
+    </message>
+    <message>
+        <source>Previous Frame</source>
+        <translation>Предишна кадър</translation>
+    </message>
+    <message>
         <source>Open screenshot folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Отвори папка с снимки</translation>
+    </message>
+    <message>
+        <source>Playback Speed</source>
+        <translation>Скорост на изпълнение</translation>
     </message>
     <message>
         <source>0.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>0.5x</translation>
     </message>
     <message>
         <source>1.0x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0x</translation>
     </message>
     <message>
         <source>1.2x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.2x</translation>
     </message>
     <message>
         <source>1.5x</source>
-        <translation type="unfinished"></translation>
+        <translation>1.5x</translation>
     </message>
     <message>
         <source>2.0x</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished">Изпълнение</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="unfinished">Предишно</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="unfinished">Следващ</translation>
-    </message>
-    <message>
-        <source>Order play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>List loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next frame</source>
-        <translation type="unfinished">Следваш кадър</translation>
-    </message>
-    <message>
-        <source>Previous frame</source>
-        <translation type="unfinished">Предишен кадър</translation>
-    </message>
-    <message>
-        <source>Playback speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mini mode</source>
-        <translation type="unfinished">Минималистичен режим</translation>
-    </message>
-    <message>
-        <source>Online search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Film screenshot</source>
-        <translation type="unfinished">Кадър от филма</translation>
-    </message>
-    <message>
-        <source>Burst shooting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>2.0x</translation>
     </message>
 </context>
 <context>
@@ -536,7 +555,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Parse failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Парсъране неуспешно</translation>
     </message>
     <message>
         <source>Mute</source>
@@ -548,7 +567,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Track: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>След: %1</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -567,6 +586,14 @@ Please do not exit the Movie app during the process.</source>
         <translation>Скорост: %1x</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation>Изглед</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation>Запази в</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation>Снимка на екрана е запазена.</translation>
     </message>
@@ -580,11 +607,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма съвпадащи онлайн субтитри</translation>
     </message>
     <message>
         <source>Cannot open file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се отвори файл или поток</translation>
     </message>
     <message>
         <source>Invalid file</source>
@@ -592,11 +619,15 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>No video file found</source>
-        <translation type="unfinished"></translation>
+        <translation>Не е намерен видеofile</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation>Кадър от филма</translation>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Вземане на снимки, моля изчакайте...</translation>
     </message>
     <message>
         <source>OK</source>
@@ -604,63 +635,63 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Please insert a CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля въведете CD/DVD</translation>
     </message>
     <message>
         <source>Reading DVD files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Четене на DVD файлове...</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
-        <translation type="unfinished"></translation>
+        <translation>4K видеото може да е заблокирано</translation>
     </message>
     <message>
         <source>Please load the video first</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля заредете видеото преди това</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>Поредно изпълнение</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Смесено изпълнение</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Еднократно изпълнение</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Еднократно повторение</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Списък с повторение</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>CD/DVD е изхвърлен</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля излезете от интелигентен dock</translation>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се изпълни диска</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се промени субтитъра</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>Действието не е поддържано в това видео</translation>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Всички (*)</translation>
     </message>
     <message>
         <source>Subtitle (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</source>
@@ -669,18 +700,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Връзката не е успешна</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast е отключен</translation>
     </message>
-</context>
-<context>
-    <name>dmr::MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">Изглед</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">Отказ</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Повторно стартиране</translation>
     </message>
 </context>
 <context>
@@ -717,6 +749,10 @@ Please do not exit the Movie app during the process.</source>
         <translation>Продължителност</translation>
     </message>
     <message>
+        <source>Type</source>
+        <translation>Тип</translation>
+    </message>
+    <message>
         <source>Size</source>
         <translation>Размер</translation>
     </message>
@@ -726,31 +762,31 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Codec info</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация за кодек</translation>
     </message>
     <message>
         <source>Video CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>Видео CodecID</translation>
     </message>
     <message>
         <source>Video CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>Видео CodeRate</translation>
     </message>
     <message>
         <source>%1 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 кбпс</translation>
     </message>
     <message>
         <source>FPS</source>
-        <translation type="unfinished"></translation>
+        <translation>FPS</translation>
     </message>
     <message>
         <source>%1 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 фпс</translation>
     </message>
     <message>
         <source>Proportion</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропорция</translation>
     </message>
     <message>
         <source>%1</source>
@@ -758,58 +794,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Audio info</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация за аудио</translation>
     </message>
     <message>
         <source>Audio CodecID</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio CodecID</translation>
     </message>
     <message>
         <source>Audio CodeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio CodeRate</translation>
     </message>
     <message>
         <source>Audio digit</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio digit</translation>
     </message>
     <message>
         <source>%1 bits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 битове</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Канали</translation>
     </message>
     <message>
         <source>%1 channels</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 канала</translation>
     </message>
     <message>
         <source>Sampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Вземане на проби</translation>
     </message>
     <message>
         <source>%1hz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1хз</translation>
     </message>
     <message>
         <source>%1 bps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 бпс</translation>
     </message>
 </context>
 <context>
     <name>dmr::MpvProxy</name>
     <message>
         <source>Internal</source>
-        <translation type="unfinished"></translation>
+        <translation>Вътрешен</translation>
     </message>
 </context>
 <context>
@@ -824,11 +852,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot play the disc</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се изигра диска</translation>
     </message>
     <message>
         <source>Parse failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Парсингът се провали</translation>
     </message>
     <message>
         <source>Open folder</source>
@@ -836,7 +864,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>All (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Всички (*)</translation>
     </message>
     <message>
         <source>Speed: %1x</source>
@@ -856,11 +884,11 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Track: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Трак: %1</translation>
     </message>
     <message>
         <source>Unable to adjust the subtitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се промени субтитъра</translation>
     </message>
     <message>
         <source>Subtitle %1: %2s</source>
@@ -880,6 +908,18 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Субтитри (*.ass *.aqt *.jss *.gsub *.ssf *.srt *.sub *.ssa *.smi *.usf *.idx)</translation>
     </message>
     <message>
+        <source>View</source>
+        <translation type="unfinished">Изглед</translation>
+    </message>
+    <message>
+        <source>Film screenshot</source>
+        <translation type="unfinished">Кадър от филма</translation>
+    </message>
+    <message>
+        <source>Saved to</source>
+        <translation type="unfinished">Запази в</translation>
+    </message>
+    <message>
         <source>The screenshot is saved</source>
         <translation type="unfinished">Снимка на екрана е запазена.</translation>
     </message>
@@ -889,19 +929,19 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Taking the screenshots, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Вземане на снимки, моля изчакайте...</translation>
     </message>
     <message>
         <source>Reading DVD files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Четене на DVD файлове...</translation>
     </message>
     <message>
         <source>No matching online subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма съвпадащи онлайн субтитри</translation>
     </message>
     <message>
         <source>4K video may be stuck</source>
-        <translation type="unfinished"></translation>
+        <translation>4K видеото може да се забърка</translation>
     </message>
     <message>
         <source>OK</source>
@@ -909,23 +949,23 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>Редовно изпълнение</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Смесено изпЪлнение</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Единичен изпълнение</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Единичен цикъл</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Списък с цикъл</translation>
     </message>
     <message>
         <source>Buffering...</source>
@@ -941,7 +981,7 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Cannot open file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се отвори файл или поток</translation>
     </message>
     <message>
         <source>Invalid file</source>
@@ -949,27 +989,27 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Please insert a CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля, въведете CD/DVD</translation>
     </message>
     <message>
         <source>No video file found</source>
-        <translation type="unfinished"></translation>
+        <translation>Не е намерен видеofile</translation>
     </message>
     <message>
         <source>Please load the video first</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля, заредете видеото преди това</translation>
     </message>
     <message>
         <source>Please exit smart dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля, излезете от умния dock</translation>
     </message>
     <message>
         <source>The CD/DVD has been ejected</source>
-        <translation type="unfinished"></translation>
+        <translation>CD/DVD е изхвърлен</translation>
     </message>
     <message>
         <source>The action is not supported in this video</source>
-        <translation type="unfinished"></translation>
+        <translation>Действието не е поддържано в това видео</translation>
     </message>
     <message>
         <source>Invalid file: %1</source>
@@ -977,36 +1017,41 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Връзката се провали</translation>
     </message>
     <message>
         <source>Miracast disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast е отключен</translation>
     </message>
-</context>
-<context>
-    <name>dmr::Platform_MessageWindow</name>
     <message>
-        <source>View</source>
-        <translation type="obsolete">Изглед</translation>
+        <source>Cancel</source>
+        <translation type="unfinished">Отказ</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Пускане отново</translation>
     </message>
 </context>
 <context>
     <name>dmr::Platform_PlayItemWidget</name>
     <message>
         <source>The file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Файла не съществува</translation>
     </message>
 </context>
 <context>
     <name>dmr::Platform_PlaylistWidget</name>
     <message>
         <source>Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Списък</translation>
+    </message>
+    <message>
+        <source>Empty</source>
+        <translation type="unfinished">Празно</translation>
     </message>
     <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 видеа&apos;</translation>
     </message>
 </context>
 <context>
@@ -1016,24 +1061,20 @@ Please do not exit the Movie app during the process.</source>
         <translation type="unfinished">Изпълнение/Пауза</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">Назад с 0.5s {15s?}</translation>
+        <source>Previous</source>
+        <translation type="unfinished">Предишно</translation>
     </message>
     <message>
-        <source>15s forward</source>
-        <translation type="unfinished">Напред с 0.5s {15s?}</translation>
+        <source>Next</source>
+        <translation type="unfinished">Следващ</translation>
     </message>
     <message>
         <source>Fullscreen</source>
         <translation type="unfinished">Цял екран</translation>
     </message>
     <message>
-        <source>Miracast</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Списък</translation>
     </message>
     <message>
         <source>Exit fullscreen</source>
@@ -1047,12 +1088,16 @@ Please do not exit the Movie app during the process.</source>
         <source>Play</source>
         <translation type="unfinished">Изпълнение</translation>
     </message>
+    <message>
+        <source>Miracast</source>
+        <translation>Miracast</translation>
+    </message>
 </context>
 <context>
     <name>dmr::PlayItemWidget</name>
     <message>
         <source>The file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Файла не съществува</translation>
     </message>
 </context>
 <context>
@@ -1063,46 +1108,50 @@ Please do not exit the Movie app during the process.</source>
     </message>
     <message>
         <source>%1 videos</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1 видеа&apos;</translation>
+    </message>
+    <message>
+        <source>Empty</source>
+        <translation>Празно</translation>
     </message>
 </context>
 <context>
     <name>dmr::Settings</name>
     <message>
         <source>%1/Movie%2(%3).jpg</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1/Филм%2(%3).jpg&apos;</translation>
     </message>
     <message>
         <source>Order play</source>
-        <translation type="unfinished"></translation>
+        <translation>Редовно изпълнение</translation>
     </message>
     <message>
         <source>Shuffle play</source>
-        <translation type="unfinished"></translation>
+        <translation>Смесено изпълнение</translation>
     </message>
     <message>
         <source>Single play</source>
-        <translation type="unfinished"></translation>
+        <translation>Единичен избор</translation>
     </message>
     <message>
         <source>Single loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Единичен цикъл</translation>
     </message>
     <message>
         <source>List loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Списъчен цикъл</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Отвори</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Затвори</translation>
     </message>
 </context>
 <context>
@@ -1110,6 +1159,14 @@ Please do not exit the Movie app during the process.</source>
     <message>
         <source>Play</source>
         <translation>Изпълнение</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>Предишно</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Следващ</translation>
     </message>
     <message>
         <source>Playlist</source>
@@ -1132,16 +1189,19 @@ Please do not exit the Movie app during the process.</source>
         <translation>Задържане</translation>
     </message>
     <message>
-        <source>15s backward</source>
-        <translation type="unfinished">Назад с 0.5s {15s?}</translation>
-    </message>
-    <message>
-        <source>15s forward</source>
-        <translation type="unfinished">Напред с 0.5s {15s?}</translation>
-    </message>
-    <message>
         <source>Miracast</source>
-        <translation type="unfinished"></translation>
+        <translation>Miracast</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>Глас</translation>
+    </message>
+</context>
+<context>
+    <name>dmr::VolumeButton</name>
+    <message>
+        <source>Volume</source>
+        <translation>Глас</translation>
     </message>
 </context>
 </TS>
